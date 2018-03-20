@@ -1,1 +1,2 @@
 Tim hieu cach su dung Git
+Tim hieu su dung TortoiseGti lam viec voi Git
